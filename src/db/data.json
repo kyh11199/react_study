@@ -1,0 +1,26 @@
+{
+  "category": [
+    { "id": 1, "name": "자유게시판", "code": "free" },
+    { "id": 2, "name": "회원게시판", "code": "user" }
+  ],
+  "board_list": [
+    {
+      "id": 1,
+      "reg_date": "2024-03-18 23:15:47",
+      "subject": "하이하이",
+      "contents": "제곧내",
+      "register": "누구임",
+      "count": 0,
+      "cate": "free"
+    },
+    {
+      "id": 2,
+      "reg_date": "2024-03-19 01:23:45",
+      "subject": "뭐지??",
+      "contents": "이건뭔게시판이지",
+      "register": "갤럼",
+      "count": 2,
+      "cate": "user"
+    }
+  ]
+}
